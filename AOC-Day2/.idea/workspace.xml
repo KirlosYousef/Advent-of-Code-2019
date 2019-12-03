@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93ed74e1-d274-4e3c-883f-1770f7b35a17" name="Default Changelist" comment="">
+    <list default="true" id="9c83b23f-e229-4333-96b1-33e6e31c924e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AOC-Day1/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AOC-Day2/AOC-Day2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AOC-Day2/ProgramAlarm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RocketEquation.py" beforeDir="false" afterPath="$PROJECT_DIR$/RocketEquation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOC-Day2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramAlarm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOC-Day1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOC-Day1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOC-Day1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOC-Day1/RocketEquation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AOC-Day1/RocketEquation.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,12 +21,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RocketEquation.py">
+        <entry file="file://$PROJECT_DIR$/ProgramAlarm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="18" selection-end-line="22" />
+            <state relative-caret-position="547">
+              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -45,8 +46,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Rocket Equation.py" />
-        <option value="$PROJECT_DIR$/RocketEquation.py" />
+        <option value="$PROJECT_DIR$/ProgramAlarm.py" />
       </list>
     </option>
   </component>
@@ -55,28 +55,35 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AOC-Day2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AOC-Day2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -94,20 +101,20 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="RocketEquation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ProgramAlarm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AOC-Day2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RocketEquation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgramAlarm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +125,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RocketEquation" />
+        <item itemvalue="Python.ProgramAlarm" />
       </list>
     </recent_temporary>
   </component>
@@ -127,24 +134,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93ed74e1-d274-4e3c-883f-1770f7b35a17" name="Default Changelist" comment="" />
-      <created>1575200816171</created>
+      <changelist id="9c83b23f-e229-4333-96b1-33e6e31c924e" name="Default Changelist" comment="" />
+      <created>1575399009699</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575200816171</updated>
-      <workItem from="1575200817449" duration="2173000" />
-      <workItem from="1575399117823" duration="305000" />
+      <updated>1575399009699</updated>
+      <workItem from="1575399010883" duration="315000" />
+      <workItem from="1575399389724" duration="5460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2478000" />
+    <option name="totallyTimeSpent" value="5775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -154,7 +161,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -180,14 +187,13 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/VOC_Day1$RocketEquation.coverage" NAME="RocketEquation Coverage Results" MODIFIED="1575202816531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AOC_Day1$RocketEquation.coverage" NAME="RocketEquation Coverage Results" MODIFIED="1575399284299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AOC_Day2$ProgramAlarm.coverage" NAME="ProgramAlarm Coverage Results" MODIFIED="1575406283927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RocketEquation.py">
+    <entry file="file://$PROJECT_DIR$/ProgramAlarm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="18" selection-end-line="22" />
+        <state relative-caret-position="547">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
         </state>
       </provider>
     </entry>

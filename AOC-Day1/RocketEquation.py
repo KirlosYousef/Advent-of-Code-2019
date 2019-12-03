@@ -12,7 +12,6 @@ def main():
         for line in f:
             mass = calc(int(line))
             while mass > 0:
-                # print(mass)
                 total += mass
                 mass = calc(mass)
 
