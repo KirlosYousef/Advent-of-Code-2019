@@ -1,6 +1,6 @@
-#--- Day 1: The Tyranny of the Rocket Equation ---
+# ---Day 1: The Tyranny of the Rocket Equation---
 
-##--- Part One ---
+## --- Part One ---
 The Elves quickly load you into a spacecraft and prepare to launch.
 
 At the first Go / No Go poll, every Elf is Go until the Fuel Counter-Upper. They haven't determined the amount of fuel required yet.
@@ -19,7 +19,7 @@ The Fuel Counter-Upper needs to know the total fuel requirement. To find it, ind
 **What is the sum of the fuel requirements** for all of the modules on your spacecraft?
 
 
-##--- Part Two ---
+## --- Part Two ---
 
 During the second Go / No Go poll, the Elf in charge of the Rocket Equation Double-Checker stops the launch sequence. Apparently, you forgot to include additional fuel for the fuel you just added.
 
