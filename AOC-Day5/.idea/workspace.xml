@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c83b23f-e229-4333-96b1-33e6e31c924e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AOC-Day5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AOC-Day5/DiagnosticProgram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2a86de27-0574-447a-9cad-2b2de41e755d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiagnosticProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AOC-Day2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOC-Day2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AOC-Day4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOC-Day4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AOC-Day4/SecureContainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AOC-Day4/SecureContainer.py" afterDir="false" />
     </list>
@@ -21,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProgramAlarm.py">
+        <entry file="file://$PROJECT_DIR$/DiagnosticProgram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="1408">
+              <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -38,24 +38,29 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prin</find>
+      <find>print</find>
+      <find>inpu</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProgramAlarm.py" />
+        <option value="$PROJECT_DIR$/DiagnosticProgram.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -65,15 +70,15 @@
         <subPane>
           <expand>
             <path>
-              <item name="AOC-Day2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AOC-Day2" type="462c0819:PsiDirectoryNode" />
+              <item name="AOC-Day5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AOC-Day5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -81,7 +86,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -99,8 +109,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ProgramAlarm" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AOC-Day2" />
+    <configuration name="DiagnosticProgram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AOC-Day5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -112,7 +122,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgramAlarm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiagnosticProgram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ProgramAlarm" />
+        <item itemvalue="Python.DiagnosticProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -132,28 +142,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c83b23f-e229-4333-96b1-33e6e31c924e" name="Default Changelist" comment="" />
-      <created>1575399009699</created>
+      <changelist id="2a86de27-0574-447a-9cad-2b2de41e755d" name="Default Changelist" comment="" />
+      <created>1575561211898</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575399009699</updated>
-      <workItem from="1575399010883" duration="315000" />
-      <workItem from="1575399389724" duration="5671000" />
-      <workItem from="1575407078604" duration="3000" />
-      <workItem from="1575561434096" duration="20000" />
-      <workItem from="1575851063520" duration="5000" />
-      <workItem from="1575854679204" duration="615000" />
+      <updated>1575561211898</updated>
+      <workItem from="1575561214806" duration="440000" />
+      <workItem from="1575581539837" duration="1600000" />
+      <workItem from="1575761580374" duration="500000" />
+      <workItem from="1575850834664" duration="8058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6629000" />
+    <option name="totallyTimeSpent" value="10598000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15236051" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -163,7 +170,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2267516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,13 +196,13 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AOC_Day2$ProgramAlarm.coverage" NAME="ProgramAlarm Coverage Results" MODIFIED="1575406283927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AOC_Day5$DiagnosticProgram.coverage" NAME="DiagnosticProgram Coverage Results" MODIFIED="1575859355757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProgramAlarm.py">
+    <entry file="file://$PROJECT_DIR$/DiagnosticProgram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="1408">
+          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
         </state>
       </provider>
     </entry>

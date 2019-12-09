@@ -12,7 +12,7 @@ def main():
 
         flag = True
 
-        for j in range(0, 6):
+        for j in range(0, 6):  # 387638
             for r in pass_array[j:]:
                 if pass_array[j] > r:
                     flag = False

@@ -9,6 +9,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 2: 1202 Program Alarm](AOC-Day2/)
 - [Day 3: Crossed Wires](AOC-Day3/)
 - [Day 4: Secure Container](AOC-Day4/)
+- [Day 5 - Part 1: Sunny with a Chance of Asteroids](AOC-Day5/)
 
 ## Advent of Code 2019
 - http://adventofcode.com/2019
