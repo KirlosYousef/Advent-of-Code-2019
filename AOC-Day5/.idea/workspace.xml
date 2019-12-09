@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a86de27-0574-447a-9cad-2b2de41e755d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiagnosticProgram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOC-Day2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOC-Day2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOC-Day4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AOC-Day4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AOC-Day4/SecureContainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AOC-Day4/SecureContainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagnosticProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/DiagnosticProgram.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DiagnosticProgram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1408">
-              <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+            <state relative-caret-position="180">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -41,8 +37,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>prin</find>
-      <find>print</find>
       <find>inpu</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,12 +146,12 @@
       <workItem from="1575561214806" duration="440000" />
       <workItem from="1575581539837" duration="1600000" />
       <workItem from="1575761580374" duration="500000" />
-      <workItem from="1575850834664" duration="8058000" />
+      <workItem from="1575850834664" duration="9313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10598000" />
+    <option name="totallyTimeSpent" value="11853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -170,7 +166,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2267516" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2267516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -196,13 +192,13 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AOC_Day5$DiagnosticProgram.coverage" NAME="DiagnosticProgram Coverage Results" MODIFIED="1575859355757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AOC_Day5$DiagnosticProgram.coverage" NAME="DiagnosticProgram Coverage Results" MODIFIED="1575860817423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DiagnosticProgram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        <state relative-caret-position="180">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
