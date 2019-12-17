@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a86de27-0574-447a-9cad-2b2de41e755d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DiagnosticProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/DiagnosticProgram.py" afterDir="false" />
-    </list>
+    <list default="true" id="2a86de27-0574-447a-9cad-2b2de41e755d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DiagnosticProgram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state>
+              <caret selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -51,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -73,8 +71,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,16 +145,18 @@
       <workItem from="1575581539837" duration="1600000" />
       <workItem from="1575761580374" duration="500000" />
       <workItem from="1575850834664" duration="9313000" />
+      <workItem from="1575922609179" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11853000" />
+    <option name="totallyTimeSpent" value="11861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15236051" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15450644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -197,8 +197,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DiagnosticProgram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state>
+          <caret selection-end-line="34" />
         </state>
       </provider>
     </entry>
